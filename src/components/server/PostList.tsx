@@ -4,7 +4,7 @@ import Post from "@/components/Post";
 
 const PostList = () => {
     const postMetadata = getPostMetadata
-    const posts = postMetadata.map((post, index) => {
+    const posts = postMetadata.map((post) => {
 
         return (
             <Post key={post.slug}{...post}/>
@@ -12,7 +12,7 @@ const PostList = () => {
     })
 
     return (
-        <div className='grid grid-cols-1 md:grid-cols-3 gap-5'>
+        <div className='grid grid-cols-1 md:grid-cols-3 gap-5 py-20'>
             {posts}
         </div>
     );

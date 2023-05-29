@@ -35,7 +35,7 @@ const Valores = () => {
 
     return (
         <>
-            <div className='bg-yellow_arti px-14 py-28 text-black_arti flex items-center justify-center flex-col'>
+            <div className='bg-yellow_arti sm:px-14 py-28 text-black_arti flex items-center justify-center flex-col'>
                 <h1 className='text-5xl text-center py-8 font-bold'>Nuestros valores</h1>
                 <motion.div
                     ref={divRef}
@@ -46,7 +46,7 @@ const Valores = () => {
 
                     <motion.div
                         variants={item}
-                        className='p-8  shadow-2xl drop-shadow-lg    text-center  font-semibold flex flex-col items-center justify-center'>
+                        className='p-8  shadow-2xl drop-shadow-lg rounded-md   text-center  font-semibold flex flex-col items-center justify-center'>
                         <Image src={comunidad} height={24} width={24} alt='comunidad' className='h-24 w-24'/>
                         <h2 className='font-bold text-xl py-4 uppercase'>
                             Apoyo a la comunidad artística
@@ -58,7 +58,7 @@ const Valores = () => {
                     </motion.div>
                     <motion.div
                         variants={item}
-                        className='p-8  shadow-2xl drop-shadow-lg   text-center font-semibold flex flex-col items-center justify-center'>
+                        className='p-8  shadow-2xl drop-shadow-lg rounded-md  text-center font-semibold flex flex-col items-center justify-center'>
                         <Image src={innovacion} height={24} width={24} alt='innovacion' className='h-24 w-24'/>
                         <h2 className='font-bold text-xl py-4 uppercase'>
                             Innovación y
@@ -70,7 +70,7 @@ const Valores = () => {
                     </motion.div>
                     <motion.div
                         variants={item}
-                        className='p-8  shadow-2xl drop-shadow-lg   text-center font-semibold flex flex-col items-center justify-center'>
+                        className='p-8  shadow-2xl drop-shadow-lg  rounded-md text-center font-semibold flex flex-col items-center justify-center'>
                         <Image src={colaboracion} height={24} width={24} alt='colaboración' className='h-24 w-24'/>
                         <h2 className='font-bold text-xl py-4 uppercase'>
                             Colaboración

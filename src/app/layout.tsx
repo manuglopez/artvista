@@ -1,6 +1,8 @@
 import './globals.css'
 import { Montserrat } from 'next/font/google'
 import fs from "fs";
+import Nav from "@/components/Navigation/Nav";
+import Footer from "@/components/Footer";
 
 
 const montserrat = Montserrat({
@@ -23,7 +25,11 @@ export default function RootLayout({
   return (
     <html lang="en" className='h-full bg-white'>
       <body className={montserrat.className}>
+      <Nav/>
+      <main className="min-h-screen">
         {children}
+      </main>
+      <Footer/>
       </body>
     </html>
   )

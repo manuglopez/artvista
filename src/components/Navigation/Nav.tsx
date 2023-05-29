@@ -12,7 +12,7 @@ import Link from "next/link";
 
 const Nav = () => {
     return (
-        <Disclosure as="nav" className="bg-black_arti">
+        <Disclosure as="nav" className="bg-black_arti z-10">
             {({open}) => (
                 <>
                     <div className="mx-auto max-w-7xl px-4 sm:px-6 lg:px-8 ">

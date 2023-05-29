@@ -10,9 +10,7 @@ export default function Home() {
     return (
         <>
 
-            <div>
-                <Nav/>
-                <main className="min-h-screen">
+
                     <section id="revista" className='relative  max-h-7xl'>
                         <Revista/>
                     </section>
@@ -27,10 +25,10 @@ export default function Home() {
                     <section id='podcast'>
                         <Podcast/>
                     </section>
-                </main>
-                <footer/>
 
-            </div>
+
+
+
         </>
     )
 
