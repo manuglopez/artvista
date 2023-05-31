@@ -31,3 +31,6 @@ La creación de algo parecido al arte vivo, su desmitificación y una revaloriza
 1. “El premio Hugo Boss” (2010) – Hans-Peter Feldmann
 Feldman fue invitado a exponer en el Museo Guggenheim de Nueva York después de ganar el Premio Hugo Boss del 2010. Mismo premio que cobró en billetes que sumaban la cantidad de 100 mil dólares, mismos que colgó en las paredes de una galería.
 Tal cual un papel tapiz estampado de dólares fue lo que Feldman consideró una obra de arte para montar su exposición. Al final de la instalación, él volvió a tomar los dólares para emplearlos con el objetivo que tiene cualquier billete, lógicamente el impacto de su absurda hazaña no tuvo ninguna importancia.
+
+
+[Lee el artículo original aquí.](https://culturacolectiva.com/arte/las-7-obras-mas-controversiales-y-absurdas-de-los-ultimos-16-anos/ "")
