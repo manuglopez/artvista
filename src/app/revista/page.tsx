@@ -1,11 +1,13 @@
-import React from 'react';
+'use client'
 
-const Page = () => {
+
+
+const RevistaPage = () => {
+
     return (
-        <div>
-            Hello from revista
-        </div>
+
+        <iframe src='document.pdf#100' className='h-screen w-screen' />
     );
 };
 
-export default Page;
+export default RevistaPage;
