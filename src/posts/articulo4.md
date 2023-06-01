@@ -3,6 +3,7 @@ title: "La importancia del arte y la cultura en tiempos de crisis"
 subtitle: "Cuando se atraviesa una etapa de crisis, el arte llega como mediador para conectar el ser con sus diversas dimensiones" 
 date: "2020-12-27"
 ---
+
 Cuando se atraviesa una etapa de crisis, el arte llega como mediador para conectar el ser con sus diversas dimensiones y con la multiplicidad de significados que le da el ser humano a la existencia. Por medio del arte se canalizan emociones, ideas y pensamientos, que pueden llegar a ser abstractos. A través de sus diversas técnicas y extensiones, el dolor y otras sensaciones se pueden materializar como una expresión creativa.
 El arte más que cumplir un rol específico en las situaciones de crisis del hombre, según Andrea Zuluaga, líder de desarrollo artístico y cultural en la UPB “siempre ha sido un medio que propone a los sentidos una mirada diferente de los hechos, las emociones, las razones y las sensaciones que nos produce existir, una mirada estética que puede tener tantos propósitos como formas de expresión”.
 Si bien el arte en ocasiones se realiza con propósitos comerciales, esta actividad va más allá del mercado, aunque se nutre del mismo y vive gracias a él. En tiempos de crisis cumple un papel de sanación porque permite que el individuo informe de lo que ve y experimenta, más allá de lo superficial, a partir de una expresión que realiza en el momento presente. El arte, concebido desde las múltiples miradas sociales, es ahora, más que nunca, una opción de terapia sanadora que toma cada vez mas fuerza.
@@ -12,3 +13,5 @@ Los últimos meses, la humanidad se ha enfrentando a una realidad que ha generad
 Así mismo, Luis Felipe Carmona Tobón, docente de educación artística,  manifiesta cómo los estudiantes del Colegio de la UPB han experimentado el arte el presente año:
 la creatividad y el arte son las alas que necesitamos para poder volar, salir de nuestras casas y para cualquier lugar del espacio donde quisiéramos estar, aunque estemos en casa, ha sido hermoso que ellos comprueben que el arte es un camino hacia la libertad emocional, psicológica y espiritual”.
 Así pues, el Colegio de la Universidad Pontifica Bolivariana promueve el arte como una forma de conocer la historia, de conocerse a sí mismos, como la forma en la que la mente y el alma se unen para expresar lo más intangible y bello del ser humano, promoviendo la música, el canto, el baile, la escritura, el dibujo, la pintura y todas las demás expresiones artísticas modernas que practican las nuevas generaciones.
+
+[Lee el artículo original aquí.](https://www.upb.edu.co/es/colegio/el-arte-en-tiempos-de-crisis#:~:text=Cuando%20se%20atraviesa%20una%20etapa,pueden%20llegar%20a%20ser%20abstractos "")

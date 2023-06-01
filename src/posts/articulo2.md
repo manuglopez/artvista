@@ -17,3 +17,5 @@ Actualmente, los avances tecnológicos han desempeñado un papel decisivo en el 
 
 Lo que quizá desconoces de una obra Fan Art
 Según las leyes de propiedad intelectual de la mayoría de países, los Fan Arts cuya creación está inspirada por dibujos o imágenes con copyright (como personajes de cómic, animé, videojuegos, etc., así como los actores de series o películas) se consideran obras derivadas y su distribución o exposición es ilegal sin el consentimiento del autor. Parece poco probable que alguien emprenda acciones contra un artista por subir un Fanart a una galería online (al fin y al cabo está favoreciendo la difusión del producto) , pero la cosa sí se puede poner fea si éste lo hace con un interés lucrativo de por medio.
+
+[Lee el artículo original aquí.](https://www.arteneo.com/blog/fan-art-arte-hecho-por-fans/ "")
