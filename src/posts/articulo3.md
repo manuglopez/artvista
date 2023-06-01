@@ -21,8 +21,7 @@ Death Note es una apuesta más que considerable de esta lista, marcando un antes
 + **Episodios:** 37
 
 
-4. 'Ataque a los titanes'
---
+## 4. 'Ataque a los titanes'
 
 Por la trama, la personalidad de cada personaje o el gusto personal que se puede tener por el estilo de animación, Ataque a los Titanes se ha ganado su lugar como uno de los animes más exitosos que hay actualmente, superándose a sí mismo con cada entrega de episodios.
 
@@ -33,8 +32,7 @@ Por la trama, la personalidad de cada personaje o el gusto personal que se puede
 + **Temporadas:** 4
 + **Episodios:** 88
 
-3. 'Rick y Morty'
---
+## 3. 'Rick y Morty'
 
 Combinando el humor negro, la sátira y los mejores elementos de la ciencia ficción con una profunda crítica social, Rick y Morty no se queda atrás con respecto a otras series en apariencia más serias e importantes a la hora de proponernos otras maneras de reflexionar. 
 
@@ -46,8 +44,7 @@ Combinando el humor negro, la sátira y los mejores elementos de la ciencia ficc
 + **Episodios:** 51
 
 
-2. 'Avatar. La leyenda de Aang'
---
+## 2. 'Avatar. La leyenda de Aang'
 
 La serie de animación presenta una gran historia, bien trazada desde un inicio, presentándo al espectador un universo repleto de una mitología propia.
 + **Plataforma:** Netflix, SkyShowtime
@@ -58,8 +55,7 @@ La serie de animación presenta una gran historia, bien trazada desde un inicio,
 + **Episodios:** 61
 
 
-1. 'Arcane' 
---
+## 1. 'Arcane'
 
 Desde su estreno se ha convertido en uno de los títulos más populares de la plataforma porque ha sabido complacer a los fans y al mismo tiempo ha abierto su universo a nuevos espectadores. 
 
